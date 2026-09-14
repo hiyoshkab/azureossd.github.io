@@ -99,7 +99,7 @@ DOTNETMONITOR_Egress__AzureBlobStorage__monitorBlob__accountUri: "https://<stora
 DOTNETMONITOR_Egress__AzureBlobStorage__monitorBlob__containerName: "<container name>"
 DOTNETMONITOR_Egress__AzureBlobStorage__monitorBlob__blobPrefix: "artifacts"
 DOTNETMONITOR_Egress__AzureBlobStorage__monitorBlob__accountKeyName: "MonitorBlobAccountKey"
-DOTNETMONITOR_Egress__Properties__MonitorBlobAccountKey: "storage account key"
+DOTNETMONITOR_Egress__Properties__MonitorBlobAccountKey: "<storage account key>"
 ```
 For more output options, refer to the egress docs: [Egress Configuration](https://github.com/dotnet/dotnet-monitor/blob/94dc655de39e24308b4a914b799b124affa74f15/documentation/configuration/egress-configuration.md#egress-configuration)
 
